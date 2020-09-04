@@ -1,0 +1,16 @@
+.nav-link{
+   font-size: 18px;
+}
+.container-logo{
+    margin-right: 5rem;
+}
+.navbar.bg-dark{
+    border: none;
+}
+.nav-link{
+    padding-right: 0.7rem !important;
+    padding-left: 0.7rem !important;
+}
+.nav-link:hover{
+    color: #2180ac;
+}

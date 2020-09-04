@@ -1,0 +1,35 @@
+.container-details{
+    background-color: #171717;
+    border-radius: 10px;
+    padding: 1rem;
+    width: 100%;
+    height: fit-content;
+}
+
+.container-details .details-image{
+    width: 130px;
+    height: 148px;
+    border-radius: 10px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.details-information-ul{
+    margin-left: 1rem;
+}
+.details-information-ul ul{
+    list-style: none; 
+    padding-inline-start: 20px;
+}
+
+.details-information-ul li{
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    border-top: 1px solid rgb(46, 46, 46);
+    padding: 0.5rem;
+}
+.details-information-ul span{
+    margin-right: .5rem;
+}
